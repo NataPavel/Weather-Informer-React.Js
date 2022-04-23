@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.weather-form{
+  border: 1px solid #4e5b75;
+  padding: 15px;
+  text-align: justify;
+  background-color: #404858;
+  border-radius: 20px;
+}.weather-form button{
+  width: 100%;
+}
